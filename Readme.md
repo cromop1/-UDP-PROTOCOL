@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.imgur.com/jaVUqG3.png" width="100%" alt="banner principal ">
+  <img src="https://i.imgur.com/QXHG07r.png" width="100%" alt="banner principal ">
 </p>
 <p align="center">
   <img src="https://i.imgur.com/RVGaecC.png" width="100%" alt="Banner Proyecto Integrador 2025">
